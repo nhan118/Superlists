@@ -25,6 +25,15 @@ class NewVisitorTest(unittest.TestCase):
 
         # He types "Buy peacock feathers"(Ryan's hobby is tying fly-fishing lures)
 
+        # When he hits enter, the page updates, and now the page lists
+        # "1. Buy peacock feathers" as an item in a to-do list.
+
+        # There is still a text box inviting him to add another item. He
+        # enters "Use peacock feathers to make a fly" (Ryan is very methodical)
+
+
+
+
 
 
 
