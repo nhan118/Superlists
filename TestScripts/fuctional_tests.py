@@ -31,13 +31,15 @@ class NewVisitorTest(unittest.TestCase):
         # There is still a text box inviting him to add another item. He
         # enters "Use peacock feathers to make a fly" (Ryan is very methodical)
 
+        # The page updates again, and now shows both items on her list
 
+        # Ryan wonders whether the site will remember his list. Then he sees
+        # that the site has generated a unique URL for him -- there is some
+        # explanatory text to that effect.
 
+        # He visits that URL - his to-do list is still there.
 
-
-
-
-
+        # Satisfied, he goes back to sleep.
 
 if __name__ == '__main__':
     unittest.main(warnings='ignore')
